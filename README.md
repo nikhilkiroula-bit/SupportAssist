@@ -36,18 +36,29 @@ The current version includes a polished dashboard UI with:
 - recent ticket table
 - priority and SLA states
 
-## Screenshots
+## Product discovery
 
-These screenshots show the actual SupportAssist workflow and interface experience for support teams.
+These workshop artifacts ground the concept in user needs and adoption challenges. They are product-planning visuals, not screenshots of the current prototype UI.
 
-### Dashboard overview
-![SupportAssist dashboard overview](44958b88-9e18-450c-8c39-cdcfe0403e59.png)
+### Customer journey maps
 
-### Queue and ticket operations
-![SupportAssist ticket operations and queue management](527bc3c6-f07a-4627-b890-9c75983c3757.png)
+The journey maps trace the path from initial awareness through onboarding, adoption, and ongoing use, highlighting customer actions, friction points, and opportunities to improve the experience.
 
-### Support workflow and team visibility
-![SupportAssist workflow and SLA visibility](aa7f1c98-5281-4b79-b230-ea7f426ddba0.png)
+<p align="center">
+  <img src="assets/supportassist-customer-journey-map.png" alt="SupportAssist customer journey map across awareness, consideration, onboarding, retention, and loyalty" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/supportassist-customer-journey-map-summary.png" alt="Condensed SupportAssist customer journey map with actions, experiences, pain points, and opportunities" width="100%" />
+</p>
+
+### User empathy map
+
+The empathy map captures what a commercial IT administrator sees, hears, says, thinks, does, and feels while evaluating and adopting SupportAssist.
+
+<p align="center">
+  <img src="assets/supportassist-user-empathy-map.png" alt="Empathy map for a commercial IT administrator adopting SupportAssist" width="100%" />
+</p>
 
 ## Core features
 
@@ -110,6 +121,10 @@ supportassist/
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── styles.css
+├── assets/
+│   ├── supportassist-customer-journey-map.png
+│   ├── supportassist-customer-journey-map-summary.png
+│   └── supportassist-user-empathy-map.png
 ├── docs/
 │   ├── architecture.md
 │   ├── context.md
@@ -121,7 +136,7 @@ supportassist/
 ├── package.json
 ├── README.md
 ├── vite.config.js
-└── package-lock.json
+└── package.json
 ```
 
 ## Getting started
