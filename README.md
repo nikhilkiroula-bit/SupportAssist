@@ -45,10 +45,6 @@ These workshop artifacts ground the concept in user needs and adoption challenge
 The journey maps trace the path from initial awareness through onboarding, adoption, and ongoing use, highlighting customer actions, friction points, and opportunities to improve the experience.
 
 <p align="center">
-  <img src="assets/supportassist-customer-journey-map.png" alt="SupportAssist customer journey map across awareness, consideration, onboarding, retention, and loyalty" width="100%" />
-</p>
-
-<p align="center">
   <img src="assets/supportassist-customer-journey-map-summary.png" alt="Condensed SupportAssist customer journey map with actions, experiences, pain points, and opportunities" width="100%" />
 </p>
 
